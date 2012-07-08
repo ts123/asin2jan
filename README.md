@@ -11,8 +11,8 @@ ASIN番号からJAN(EAN)番号を取得するPythonスクリプト
 * Mac OS X (10.6.8)
 * Python (2.6.7)
     * 外部依存モジュール
-        * argparse module
-        * Pit module
+        * [argparse] (http://pypi.python.org/pypi/argparse)
+        * [pit] (http://pypi.python.org/pypi/pit)
 
 ## 使用WebAPI
 
